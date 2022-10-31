@@ -89,4 +89,7 @@ steps:
         echo "Branch '$BRANCH_NAME' does not represent an official environment."
         echo "*******************************************************************************"
       fi
-# [END tf-apply]      
+# [END tf-apply]
+options:
+  pool:
+    name: 'projects/case-30268647/locations/asia-northeast1/workerPools/private-pools
