@@ -92,4 +92,4 @@ steps:
 # [END tf-apply]
 options:
   pool:
-    name: 'projects/case-30268647/locations/asia-northeast1/workerPools/private-pools'
+    name: 'projects/case-30268647/locations/asia-northeast1/workerPools/work-pools'
